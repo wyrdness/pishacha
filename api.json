@@ -1,0 +1,51 @@
+{
+  "id": "pishacha",
+  "name": "Pishacha",
+  "category": "Hindu Mythology",
+  "type": "Demon",
+  "version": "1.0.0",
+  "last_updated": "2026-01-14",
+  "locations": [
+    {
+      "name": "Indian Subcontinent",
+      "region": "South Asia",
+      "country": "India",
+      "coordinates": null
+    }
+  ],
+  "origin": {
+    "culture": "Hindu/Indian",
+    "period": "Ancient to Present",
+    "source": "Sanskrit Texts and Hindu Mythology"
+  },
+  "description": {
+    "short": "Flesh-eating demons from Hindu mythology that possess humans, causing madness and disease, mentioned in ancient Sanskrit texts.",
+    "long": "Pishachas (also pisacha, pishach) are a class of flesh-eating demons in Hindu mythology and Sanskrit texts. They are described as malevolent spirits that inhabit cremation grounds, cemeteries, and dark places, feeding on human flesh and corpses. Pishachas are known for possessing humans, driving them to madness, causing diseases, and making them perform degrading acts. In Hindu cosmology, they are considered among the lowest supernatural beings, created from the breath of Brahma or arising from pride and anger. They appear in ancient texts including the Atharva Veda, Puranas, and various classical Sanskrit literature. In traditional belief, they can be repelled through mantras, religious rituals, and purity practices. The pishacha represents the demonic aspect of Hindu supernatural taxonomy and continues in modern Indian folklore and popular culture."
+  },
+  "characteristics": [
+    "Flesh-eating demons",
+    "Possess humans",
+    "Cause madness and disease",
+    "Inhabit cremation grounds",
+    "Dark or corpse-like appearance",
+    "Feed on corpses",
+    "Repelled by mantras and rituals",
+    "Ancient Sanskrit text origins"
+  ],
+  "status": {
+    "confirmed": false,
+    "explanation": "Mythological beings from Hindu tradition and Sanskrit texts, part of religious and folkloric belief system",
+    "evidence_level": "Mythological"
+  },
+  "cultural_impact": {
+    "significance": "Important category in Hindu demonology and supernatural taxonomy, continues in modern Indian folklore",
+    "modern_usage": "Appears in Hindu religious texts, Indian folklore, popular culture, and discussions of possession",
+    "folklore_type": "Traditional Religious Mythology"
+  },
+  "see_also": [
+    "demons",
+    "hindu-mythology",
+    "rakshasa",
+    "possession"
+  ]
+}
